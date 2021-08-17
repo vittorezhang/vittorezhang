@@ -18,8 +18,9 @@ Here is some personal information about me:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vittore0115&theme=vue-dark&show_icons=true)](https://github.com/Vittore0115)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark&show_icons=true)](https://juejin.cn/user/3122268756255294/posts)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vittore0115&theme=vue&show_icons=true)](https://github.com/Vittore0115)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue&show_icons=true)](https://juejin.cn/user/3122268756255294/posts)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vittore0115&repo=webServer&theme=vue-dark)](https://github.com/Vittore0115/webServer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vittore0115&repo=circle-progress&theme=vue-dark)](https://github.com/Vittore0115/circle-progress)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vittore0115&repo=webServer&theme=vue)](https://github.com/Vittore0115/webServer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vittore0115&repo=circle-progress&theme=vue)](https://github.com/Vittore0115/circle-progress)
+
