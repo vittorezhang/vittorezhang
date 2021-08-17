@@ -1,4 +1,4 @@
-### 🚀 Welcome to Vittore0115 Zone
+### 🚀 Welcome to Vittore Zone
 
 Here is some personal information about me:
 
