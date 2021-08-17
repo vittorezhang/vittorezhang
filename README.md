@@ -19,10 +19,7 @@ Here is some personal information about me:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vittore0115&theme=vue-dark&show_icons=true)](https://github.com/Vittore0115)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark&show_icons=true)](https://juejin.cn/user/3122268756255294/posts)
 
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vittore0115&repo=webServer&theme=vue-dark)](https://github.com/Vittore0115/webServer)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vittore0115&repo=circle-progress&theme=vue-dark)](https://github.com/Vittore0115/circle-progress)
