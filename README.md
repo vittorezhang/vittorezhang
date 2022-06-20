@@ -13,10 +13,10 @@ Here is some personal information about me:
 ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=black)
 ![](https://img.shields.io/badge/-TypeScript-007BCD?style=flat-square&logo=TypeScript&labelColor=fff&logoColor=007BCD)
 ![](https://img.shields.io/badge/-Node-29beb0?style=flat-square&logo=node.js&labelColor=white&color=05A505)
-![](https://img.shields.io/badge/-Nuxt-29beb0?style=flat-square&logo=nuxt.js&labelColor=white&color=3FE5A1)
-![](https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js&labelColor=white&color=black)
 ![](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=white&color=4FC08D)
+![](https://img.shields.io/badge/-Nuxt-29beb0?style=flat-square&logo=nuxt.js&labelColor=white&color=3FE5A1)
 ![](https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=React&labelColor=white&color=61DAFB)
+![](https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js&labelColor=3B3939&color=black)
 
 ### Hi there 👋
 
