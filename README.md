@@ -10,13 +10,13 @@ Here is some personal information about me:
 
 **🔧 Language && Tools**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-</code>
-<code><img height="20" src="https://www.nuxtjs.cn/favicon.ico"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
-
+![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
+![](https://img.shields.io/badge/-TypeScript-007BCD?style=flat-square&logo=TypeScript&labelColor=58B4F2&logoColor=007BCD)
+![](https://img.shields.io/badge/-Node-29beb0?style=flat-square&logo=node.js&labelColor=ffffff&color=05A505)
+![](https://img.shields.io/badge/-Nuxt-29beb0?style=flat-square&logo=nuxt.js&labelColor=ffffff&color=3FE5A1)
+![](https://img.shields.io/badge/-Next-2E2929?style=flat-square&logo=next.js&labelColor=2E2929&color=000000)
+![](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=ffffff&color=4FC08D)
+![](https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=React&labelColor=ffffff&color=61DAFB)
 
 ### Hi there 👋
 
