@@ -7,7 +7,10 @@ Here is some personal information about me:
 - 🌱 Ask me about any question about my repos or directly give me a issue/pr~
 - 📫 How to reach me: yc_zwt@163.com.
 - 💬 Wechat: zwt_yc.
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vittorezhang/count.svg" />
+</p>
 
 **🔧 Language && Tools**  
 
@@ -25,10 +28,8 @@ Here is some personal information about me:
 ### Hi there 👋
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/vittorezhang/count.svg" />
-  <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="430" height="100%"> -->
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="430" height="100%">
+  <!-- <img align="center" alt="GIF" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="430" height="100%"> -->
+  <img align="center" alt="GIF" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="430" height="100%">
 </p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vittorezhang&theme=github)](https://github.com/vittorezhang/react-ssr)
