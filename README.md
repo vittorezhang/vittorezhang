@@ -8,8 +8,6 @@ Here is some personal information about me:
 - 📫 How to reach me: yc_zwt@163.com.
 - 💬 Wechat: zwt_yc.
 
-<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="430" height="100%"> -->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="430" height="100%">
 
 **🔧 Language && Tools**  
 
@@ -23,12 +21,15 @@ Here is some personal information about me:
 ![Webpack](https://img.shields.io/badge/-Webpack-55A7DD?style=flat-square&logo=webpack&logoColor=55A7DD&labelColor=white&color=55A7DD)
 ![Vite](https://img.shields.io/badge/-Vite-8976ff?style=flat-square&logo=vite&logoColor=8976ff&labelColor=white&color=8976ff)
 
+
 ### Hi there 👋
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/vittorezhang/count.svg" />
 </p>
+<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="430" height="100%"> -->
+<img align="right" alt="GIF" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="430" height="100%">
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vittorezhang&theme=github)](https://github.com/vittorezhang/react-ssr)
 
