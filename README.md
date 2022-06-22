@@ -9,7 +9,9 @@ Here is some personal information about me:
 - 💬 Wechat: zwt_yc.
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/vittorezhang/count.svg" />
+  <a href="https://github.com/vittorezhang/vue-ssr">
+    <img src="https://profile-counter.glitch.me/vittorezhang/count.svg" />
+  </a>
 </p>
 
 **🔧 Language && Tools**  
