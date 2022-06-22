@@ -27,12 +27,10 @@ Here is some personal information about me:
 
 ### Hi there 👋
 
-<p align="center"> 
-  <!-- <img align="center" alt="GIF" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="430" height="100%"> -->
-  <a href="https://github.com/vittorezhang/vue-ssr">
-    <img align="center" alt="GIF" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="430" height="100%">
-  </a>
-</p>
+
+
+[![working condition graph](https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif#pic_center)](https://github.com/vittorezhang/react-ssr)
+
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vittorezhang&theme=github)](https://github.com/vittorezhang/react-ssr)
 
