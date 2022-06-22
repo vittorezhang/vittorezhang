@@ -9,9 +9,7 @@ Here is some personal information about me:
 - 💬 Wechat: zwt_yc.
 <p align="center"> 
   Visitor count<br>
-  <a href="https://github.com/vittorezhang/vue-ssr">
-    <img src="https://profile-counter.glitch.me/vittorezhang/count.svg" />
-  </a>
+  <img src="https://profile-counter.glitch.me/vittorezhang/count.svg" />
 </p>
 
 **🔧 Language && Tools**  
@@ -31,7 +29,9 @@ Here is some personal information about me:
 
 <p align="center"> 
   <!-- <img align="center" alt="GIF" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="430" height="100%"> -->
-  <img align="center" alt="GIF" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="430" height="100%">
+  <a href="https://github.com/vittorezhang/vue-ssr">
+    <img align="center" alt="GIF" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="430" height="100%">
+  </a>
 </p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vittorezhang&theme=github)](https://github.com/vittorezhang/react-ssr)
