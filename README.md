@@ -3,7 +3,7 @@
 Here is some personal information about me:
 
 - 🔭 I'm Chinese and currently working in Shenzhen.
-- 📖 I'm currently learning && using Vue.js/Nuxt.js...
+- 📖 I'm currently learning && using Vue.js/Nuxt.js and React.js/Next.js...
 - 🌱 Ask me about any question about my repos or directly give me a issue/pr~
 - 📫 How to reach me: yc_zwt@163.com.
 - 💬 Wechat: zwt_yc.
