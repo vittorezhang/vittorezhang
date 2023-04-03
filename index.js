@@ -75,16 +75,12 @@ Here is some personal information about me:
 
 ### About me      
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vittorezhang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="vittorezhang's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittorezhang&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vittorezhang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="vittorezhang's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittorezhang&layout=compact&theme=buefy&hide_border=true" />
+</a> |
 | ------------- | ------------- |
 
 ### Repositories
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vittorezhang&theme=github)](https://github.com/vittorezhang/react-ssr)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vittorezhang&theme=vue&show_icons=true)](https://github.com/vittorezhang)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue&show_icons=true)](https://juejin.cn/user/3122268756255294/posts)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vittorezhang&repo=webServer&theme=vue)](https://github.com/vittorezhang/webServer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vittorezhang&repo=circle-progress&theme=vue)](https://github.com/vittorezhang/circle-progress)
