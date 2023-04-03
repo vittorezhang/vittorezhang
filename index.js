@@ -26,9 +26,7 @@ function generateProgressBar() {
 }
 
 const readme = `\
-![me](https://cdn.jsdelivr.net/gh/wang-xiaowu/picture_repository@master/result.gif)
-
-<img align="right" width="150px" src="https://cdn.jsdelivr.net/gh/wang-xiaowu/picture_repository@master/heart.svg"/>
+![me](https://cdn.jsdelivr.net/gh/vittorezhang/picture_repository@master/README/vision.gif)
 
 ⏰ Updated on ${formatDate(new Date())}
 
