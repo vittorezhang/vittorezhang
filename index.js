@@ -46,6 +46,18 @@ Here is some personal information about me:
   <img src="https://profile-counter.glitch.me/vittorezhang/count.svg" />
 </p>
 
+### 🔧 Language && Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javaScript&labelColor=white&logoColor=f7df1e)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007BCD?style=flat-square&logo=typeScript&labelColor=fff&logoColor=007BCD)
+![Node](https://img.shields.io/badge/-Node-29beb0?style=flat-square&logo=node.js&labelColor=white&color=05A505)
+![Vue](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=white&color=4FC08D)
+![Nuxt](https://img.shields.io/badge/-Nuxt-29beb0?style=flat-square&logo=nuxt.js&labelColor=white&color=3FE5A1)
+![React](https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=react&labelColor=white&color=61DAFB)
+![Next](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js&logoColor=black&labelColor=white&color=black)
+![Webpack](https://img.shields.io/badge/-Webpack-55A7DD?style=flat-square&logo=webpack&logoColor=55A7DD&labelColor=white&color=55A7DD)
+![Vite](https://img.shields.io/badge/-Vite-8976ff?style=flat-square&logo=vite&logoColor=8976ff&labelColor=white&color=8976ff)
+
 
 ### Hi there 👋
 
@@ -76,19 +88,6 @@ Here is some personal information about me:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vittorezhang&repo=webServer&theme=vue)](https://github.com/vittorezhang/webServer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vittorezhang&repo=circle-progress&theme=vue)](https://github.com/vittorezhang/circle-progress)
-
-  
-### 🔧 Language && Tools**  
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javaScript&labelColor=white&logoColor=f7df1e)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007BCD?style=flat-square&logo=typeScript&labelColor=fff&logoColor=007BCD)
-![Node](https://img.shields.io/badge/-Node-29beb0?style=flat-square&logo=node.js&labelColor=white&color=05A505)
-![Vue](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=white&color=4FC08D)
-![Nuxt](https://img.shields.io/badge/-Nuxt-29beb0?style=flat-square&logo=nuxt.js&labelColor=white&color=3FE5A1)
-![React](https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=react&labelColor=white&color=61DAFB)
-![Next](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js&logoColor=black&labelColor=white&color=black)
-![Webpack](https://img.shields.io/badge/-Webpack-55A7DD?style=flat-square&logo=webpack&logoColor=55A7DD&labelColor=white&color=55A7DD)
-![Vite](https://img.shields.io/badge/-Vite-8976ff?style=flat-square&logo=vite&logoColor=8976ff&labelColor=white&color=8976ff)
 \
 `
 
