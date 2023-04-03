@@ -1,17 +1,28 @@
 ![me](https://cdn.jsdelivr.net/gh/vittorezhang/picture_repository@master/README/vision.gif)
 
-⏰ Updated on 2023/04/03 12:01:42
+⏰ Updated on 2023/04/03 13:48:41
 
 ---
 
-### Hi there 👋 
-### I'm xiaowu, an ordinary programmer. 
+### 🚀 Welcome to Vittore Zone
 
-⏳ Year progress { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 25.25 %
+Here is some personal information about me:
+
+- 🔭 I'm Chinese and currently working in Shenzhen.
+- 📖 I'm currently learning && using Vue.js/Nuxt.js and React.js/Next.js...
+- 🌱 Ask me about any question about my repos or directly give me a issue/pr~
+- 📫 How to reach me: yc_zwt@163.com.
+- 💬 Wechat: zwt_yc.
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vittorezhang/count.svg" />
+</p>
+
+⏳ Year progress { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 25.27 %
 
 ### My GitHub Contributions    
 
-![](https://raw.githubusercontent.com/wang-xiaowu/wang-xiaowu/main/assets/github-contribution-grid-snake.svg)          
+![](../assets/github-contribution-grid-snake)          
 
 ### About me      
 

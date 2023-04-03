@@ -32,14 +32,25 @@ const readme = `\
 
 ---
 
-### Hi there 👋 
-### I'm xiaowu, an ordinary programmer. 
+### 🚀 Welcome to Vittore Zone
+
+Here is some personal information about me:
+
+- 🔭 I'm Chinese and currently working in Shenzhen.
+- 📖 I'm currently learning && using Vue.js/Nuxt.js and React.js/Next.js...
+- 🌱 Ask me about any question about my repos or directly give me a issue/pr~
+- 📫 How to reach me: yc_zwt@163.com.
+- 💬 Wechat: zwt_yc.
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vittorezhang/count.svg" />
+</p>
 
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
 ### My GitHub Contributions    
 
-![](https://raw.githubusercontent.com/wang-xiaowu/wang-xiaowu/main/assets/github-contribution-grid-snake.svg)          
+![](../assets/github-contribution-grid-snake)          
 
 ### About me      
 
