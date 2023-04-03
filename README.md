@@ -1,6 +1,6 @@
 ![me](https://cdn.jsdelivr.net/gh/vittorezhang/picture_repository@master/README/vision.gif)
 
-⏰ Updated on 2023/04/03 14:13:01
+⏰ Updated on 2023/04/03 14:13:40
 
 ---
 
@@ -47,9 +47,7 @@ Here is some personal information about me:
 
 ### About me      
 
-| <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vittorezhang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="vittorezhang's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittorezhang&layout=compact&theme=buefy&hide_border=true" />
-</a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vittorezhang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="vittorezhang's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittorezhang&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### Repositories
