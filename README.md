@@ -1,6 +1,6 @@
 ![me](https://cdn.jsdelivr.net/gh/vittorezhang/picture_repository@master/README/vision.gif)
 
-⏰ Updated on 2023/05/06 09:20:30
+⏰ Updated on 2023/05/06 09:28:12
 
 ---
 
@@ -43,7 +43,7 @@ Here is some personal information about me:
 
 ### My GitHub Contributions    
 
-![](https://cdn.jsdelivr.net/gh/vittorezhang/picture_repository@master/README/github-contribution-grid-snake.gif)          
+![](https://cdn.jsdelivr.net/gh/vittorezhang/picture_repository@master/github-homePage/github-contribution-grid-snake.gif)          
 
 ### About me      
 
