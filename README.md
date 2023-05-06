@@ -43,7 +43,7 @@ Here is some personal information about me:
 
 ### My GitHub Contributions    
 
-![](https://cdn.jsdelivr.net/gh/vittorezhang/picture_repository@master/github-homePage/github-contribution-grid-snake.gif)          
+![](https://cdn.jsdelivr.net/gh/vittorezhang/picture_repository@master/README/github-contribution-grid-snake.gif)          
 
 ### About me      
 
