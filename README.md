@@ -1,6 +1,6 @@
 ![me](https://cdn.jsdelivr.net/gh/vittorezhang/picture_repository@master/README/vision.gif)
 
-⏰ Updated on 2023/12/20 18:22:43
+⏰ Updated on 2023/12/21 01:19:01
 
 ---
 
@@ -39,7 +39,7 @@ Here is some personal information about me:
 </p>
 
 
-⏳ Year progress { █████████████████████████████▁ } 96.92 %
+⏳ Year progress { █████████████████████████████▁ } 97.00 %
 
 ### My GitHub Contributions    
 
